@@ -1,0 +1,51 @@
+body{
+    /* background-color: #3CAEA3; */
+    background-color: #4682B4;
+    ;
+  }
+  .main{
+    width: 50%;
+    height: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #20639B;
+  }
+
+  h1 {
+    /* color: #173f5f; */
+    color: #FFDEAD;
+    font-size: 38px;
+    text-align: center;
+  }
+
+  h2{
+    color: #FFDEAD;
+  }
+
+  input[type=text]{
+    width: 50%;
+    height: 30px;
+    padding: 5px 0;
+  }
+
+  input[type=submit]{
+    width: 10%;
+    height: 30px;
+    border-radius: 20px;
+  }
+
+  #result {
+    color: #F6D55C;
+    font-size: 28px;
+  }
+
+  #para{
+    font-size: 25px;
+    color: #FFDEAD;
+  }
+
+  #heart{
+    font-size: 20px;
+    color: red;
+  }
